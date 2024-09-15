@@ -1,0 +1,33 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+tiny-224/
+# VSCode
+.vscode/
+
+# Data files
+*.csv
+*.h5
+*.npz
+*.pkl
+*.npy
+
+# Images and models
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.model
+*.h5
+*.pt
+*.pth
+test_labels
+train_labels
