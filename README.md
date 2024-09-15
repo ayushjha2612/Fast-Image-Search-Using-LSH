@@ -30,4 +30,4 @@ We utilize a Convolutional Neural Network (CNN) for feature extraction and LSH f
 This project achieves a scalable and efficient solution for image search using CNN and LSH. By trading off minimal accuracy for speed, it enables sub-linear time searches over large datasets.
 
 ## References
-- Dataset: [Tiny ImageNet](https://www.kaggle.com/c/tiny-imagenet)
+- Dataset: [Tiny 224](https://www.kaggle.com/datasets/hcfighting/tiny224)
